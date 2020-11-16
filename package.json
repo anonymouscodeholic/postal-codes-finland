@@ -1,0 +1,12 @@
+{
+  "name": "postal-codes-finland",
+  "version": "1.0.0",
+  "description": "Convert machine-readable information of the postal codes of Finland to JSON",
+  "main": "convert.ts",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
