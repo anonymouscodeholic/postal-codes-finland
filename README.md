@@ -10,3 +10,13 @@ The file containing the postal codes is named `PCF_yyyymmdd.zip`. The file is ro
 
 Old school? Yes. This format is not very nice to work with programmatically.
 
+## Running
+
+Download the latest definitions to file `PCF.dat`.
+
+```
+npm install
+node convert.js
+```
+
+The file `postalcodes.json` will have the JSON formatted postal code information, a JSON array with each element being an entry from the DAT-file. The fields of each entry correspond (in the order) to the fields in the DAT-file. Each field has a more explanatory name than just the index in the record.
