@@ -25,3 +25,4 @@ The file `postalcodes.json` will have the JSON formatted postal code information
 
 An automatic fetch mechanism could be easily added, now the file needs to be manually downloaded.
 
+This could be made into a node package for easier embedding into Node-apps. 
