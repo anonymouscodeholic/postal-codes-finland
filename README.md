@@ -20,3 +20,8 @@ node convert.js
 ```
 
 The file `postalcodes.json` will have the JSON formatted postal code information, a JSON array with each element being an entry from the DAT-file. The fields of each entry correspond (in the order) to the fields in the DAT-file. Each field has a more explanatory name than just the index in the record.
+
+## TODO
+
+An automatic fetch mechanism could be easily added, now the file needs to be manually downloaded.
+
