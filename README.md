@@ -12,7 +12,7 @@ Old school? Yes. This format is not very nice to work with programmatically.
 
 ## Running
 
-Download the latest definitions to file `PCF.dat`.
+Download the latest definitions ZIP-file, extract it and copy the file inside to the Git root dir with name `PCF.dat`.
 
 ```
 npm install
